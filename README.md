@@ -1,7 +1,7 @@
-# The Kringle Secrets Book
+# Cyber Quests Spring 2019 challenges solution
 Created by [Salaheldin](https://github.com/salaheldinaz)
 
-The solutions for US Cyber Challenge: Cyber Quests Spring 2019 challenges.
+The answers for US Cyber Challenge: Cyber Quests Spring 2019 challenges.
 
 `US Cyber Challenge: Cyber Quests` : <https://uscc.cyberquests.org/>
 
