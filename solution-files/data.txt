@@ -1,0 +1,46 @@
+ExifTool Version Number         : 11.30
+File Name                       : file.jpg
+Directory                       : .
+File Size                       : 41 kB
+File Modification Date/Time     : 2019:06:22 21:31:01+03:00
+File Access Date/Time           : 2019:06:22 21:43:43+03:00
+File Inode Change Date/Time     : 2019:06:22 21:41:54+03:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.02
+Resolution Unit                 : inches
+X Resolution                    : 96
+Y Resolution                    : 96
+DCT Encode Version              : 100
+APP14 Flags 0                   : (none)
+APP14 Flags 1                   : (none)
+Color Transform                 : YCbCr
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Artist                          : Sarah
+Date/Time Original              : 2018:05:29 10:46:42
+Create Date                     : 2018:05:29 10:46:42
+Sub Sec Time Original           : 46
+Sub Sec Time Digitized          : 46
+XP Title                        : New York City skyline
+XP Author                       : Sarah
+Padding                         : (Binary data 2108 bytes, use -b option to extract)
+Quality                         : 60%
+About                           : uuid:faf5bdd5-ba3d-11da-ad31-d33d75182f1b
+Creator                         : Sarah
+Rating                          : 5
+Warning                         : [minor] Fixed incorrect URI for xmlns:MicrosoftPhoto
+Rating Percent                  : 99
+Title                           : New York City skyline
+Description                     : New York City skyline
+Image Width                     : 580
+Image Height                    : 387
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 580x387
+Megapixels                      : 0.224
+Create Date                     : 2018:05:29 10:46:42.46
+Date/Time Original              : 2018:05:29 10:46:42.46
