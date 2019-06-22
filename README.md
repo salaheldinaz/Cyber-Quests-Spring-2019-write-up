@@ -12,9 +12,9 @@
 
 ### The answers:
 
-* [Part 1 - General Networking Questions](https://github.com/salaheldinaz)
-* [Part 2 - Questions refer to attack.pcap](https://github.com/salaheldinaz)
-* [Part 3 - Questions refer to WIFI.pcap](https://github.com/salaheldinaz)
+* [Part 1 - General Networking Questions](https://salaheldin.online/blog/cyber-quests-spring-2019-write-up-1)
+* [Part 2 - Questions refer to attack.pcap](https://salaheldin.online/blog/cyber-quests-spring-2019-write-up-2)
+* [Part 3 - Questions refer to WIFI.pcap](https://salaheldin.online/blog/cyber-quests-spring-2019-write-up-3)
 
 
 
